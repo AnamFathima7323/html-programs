@@ -1,0 +1,51 @@
+students{
+	margin-top:40px;
+	background-color:#c0c0c0;
+	display:block;
+text-align:center;
+	}
+USN{
+	margin-left:15px;
+	font-weight:bold;
+	color:red;
+	display:block;
+
+	}
+Name{
+	margin-left:15px;
+	font-weight:bold;
+	color:yellow;
+	display:block;
+
+	}
+College{
+	margin-left:15px;
+	font-weight:bold;
+	color:blue;
+	display:block;
+	
+	}
+Branch{
+	margin-left:15px;
+	font-weight:bold;
+	color:green;
+	display:block;
+	
+	}
+email{
+	margin-left:15px;
+	color:blue;
+	display:block;
+
+	}
+joinYear{
+	margin-left:15px;
+	font-weight:bold;
+	color:black;
+	display:block;
+
+	}
+	
+
+
+	

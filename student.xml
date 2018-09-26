@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<?xml-stylesheet type="text/css" href="student.css" ?>
+<students>
+<student>
+USN:<USN>4VV15CS005</USN>
+Name:<Name>amrutha</Name>
+College:<College>VVCE</College>
+Branch:<Branch>CSE</Branch>
+joinYear:<joinYear>2015</joinYear>
+email:<email>amru12@gmail.com</email>
+</student>
+
+<student>
+USN:<USN>4VV15CS006</USN>
+Name:<Name>anam</Name>
+College:<College>VVCE</College>
+Branch:<Branch>CSE</Branch>
+joinYear:<joinYear>2015</joinYear>
+email:<email>anam@gmail.com</email>
+</student>
+
+<student>
+USN:<USN>4VV15CS007</USN>
+Name:<Name>anirudh</Name>
+College:<College>VVCE</College>
+Branch:<Branch>CSE</Branch>
+joinYear:<joinYear>2015</joinYear>
+email:<email>ani@gmail.com</email>
+</student>
+</students>
+
